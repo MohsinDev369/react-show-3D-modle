@@ -1,6 +1,6 @@
-# 🚀 Show single  3d modle in react.js
+# 🚀 Showing modle in React.js
 
-This project has been created using **webpack-cli**, you can now run
+I just wanted to create a modle in Blender and show it in React.js, Used Three.js with three/fiber and deri
 
 ```
 npm run dev
