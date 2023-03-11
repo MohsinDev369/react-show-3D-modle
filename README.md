@@ -1,3 +1,9 @@
-# show-single-glb
-I made a pillar in blender and added it to react.js with three.js three fiber and deri
+# 🚀 Show single  3d modle in react.js
+
+This project has been created using **webpack-cli**, you can now run
+
+```
+npm run dev
+```
+
 ![alt text](./public/preview.png)
