@@ -1,12 +1,11 @@
-# 🚀 Showing modle in React.js
+# 🚀 Showing model in React.js
 
-![alt text](./public/preview.png)
 ![alt text](./public/preview.gif)
 
-I created a modle in Blender and show it in React.js, Used Three.js with three/fiber and deri
+I created a model in Blender and show it in React.js, Used Three.js with three/fiber and deri
 
 ### To Run
-* Install Project Depencies
+* Install Project Dependencies
   ```sh
   npm install
   ```
