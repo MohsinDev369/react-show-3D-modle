@@ -1,4 +1,4 @@
-# 🚀 Showing model in React.js
+# 🚀 Showing 3D model in React.js
 
 ![alt text](./public/preview.gif)
 
